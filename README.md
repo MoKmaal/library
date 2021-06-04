@@ -2,8 +2,11 @@
 
 # Note
 Assume Java 8 installed to be able to run this app after cloning it.
+
 This app doesn't use db instead we are using csv file to store retreive and maintain the data.
-You can change the file path from db.properties file 
+
+You can change the file path from db.properties file.
+
 # Introduction 
 
 This maintains a database of books. The user, through a command line interface,
@@ -15,7 +18,9 @@ find books by keyword.
 
 functions
 • View all books in the database
+
 • Allow the user to see details of a particular book
+
 • Add a new book
 • Edit an existing book
 • Search for books using keywords
