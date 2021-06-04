@@ -16,14 +16,16 @@ find books by keyword.
 
 # Functions
 
-functions
 • View all books in the database
 
 • Allow the user to see details of a particular book
 
 • Add a new book
+
 • Edit an existing book
+
 • Search for books using keywords
+
 • Exit the application 
 
 
